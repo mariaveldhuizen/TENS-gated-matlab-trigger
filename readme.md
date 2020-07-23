@@ -39,7 +39,8 @@ cut off the connectors and strip the wire. Plug the red connector into
 P2.7 and the black connector into GND next to it (Figure 1). Use some
 electrical tape to secure the connector.
 
-<img src="https://github.com/mariaveldhuizen/TENS-gated-matlab-trigger/tree/master/img/Fig1.png" width="600" />
+<img src="Fig1.png" width="600" />
+<img src="https://github.com/mariaveldhuizen/TENS-gated-matlab-trigger/tree/master/Fig1.png" width="600" />
 
 ![Fig1.png](https://github.com/mariaveldhuizen/TENS-gated-matlab-trigger/tree/master/img/Fig1.png)
 
