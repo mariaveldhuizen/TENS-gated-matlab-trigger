@@ -58,7 +58,7 @@ Hz stimulation the counter should go up to 750, but it misses the first
 edges counted. This means that the first edge is counted \~1 second
 after the block started.
 
-<img src="img/fig2.png" width="600" />
+<img src="Fig2.png" width="600" />
 
 ## Matlab script:
 
