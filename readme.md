@@ -41,6 +41,8 @@ electrical tape to secure the connector.
 
 <img src="https://github.com/mariaveldhuizen/TENS-gated-matlab-trigger/tree/master/img/Fig1.png" width="600" />
 
+![Fig1.png](https://github.com/mariaveldhuizen/TENS-gated-matlab-trigger/tree/master/img/Fig1.png)
+
 ## TENS device settings:
 
 EMS settings, duty cycle of 30 seconds on, 30 seconds off, 0.25
